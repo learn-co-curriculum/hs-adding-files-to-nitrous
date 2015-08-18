@@ -2,7 +2,7 @@
 
 We've seen how we can add images to our websites that are hosted on the web already, but what if we want to add our own images like a selfie we took on our phone? 
 
-Really, we need the image saved in Nitrous in the same directory (folder) where our work is. If I'm working on a website about how much I love popcorn, I want to have a directory dedicated specifically to that individually website. I might have a lot of other files and directories inside the main one, but thats okay. Any images that I personally take and want to include in my website need to be stored in my the main directory for my project. So how do I save an image in Nitrous?
+Really, we need the image saved in Nitrous in the same directory (folder) where our work is. If I'm working on a website about how much I love popcorn, I want to have a directory dedicated specifically to that individual website. I might have a lot of other files and directories inside the main one, but thats okay. Any images that I personally take and want to include in my website need to be stored in my the main directory for my project. So how do I save an image in Nitrous?
 
 
 + Click the Gear button in the file browser.
