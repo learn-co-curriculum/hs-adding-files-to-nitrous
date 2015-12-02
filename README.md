@@ -49,3 +49,5 @@ The `mv` command moves a file. You have to tell Nitrous what file to move (in th
 You can use the `mv` command as many times you like to continue to move a file around.
 
 If you're not super comfortable with terminal, you can also move the image by using the file navigator on the left side of Nitrous, by clicking on that image and dragging it and dropping it in the directory where you want it.
+
+<a href='https://learn.co/lessons/hs-adding-files-to-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
