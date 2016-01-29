@@ -50,4 +50,4 @@ You can use the `mv` command as many times you like to continue to move a file a
 
 If you're not super comfortable with terminal, you can also move the image by using the file navigator on the left side of Nitrous, by clicking on that image and dragging it and dropping it in the directory where you want it.
 
-<a href='https://learn.co/lessons/hs-adding-files-to-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-adding-files-to-nitrous' title='Adding Files to Nitrous'>Adding Files to Nitrous</a> on Learn.co and start learning to code for free.</p>
